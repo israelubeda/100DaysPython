@@ -11,3 +11,5 @@ Dia 4 Practicas de Dataframe y modulo request
 Dia 5 Tratamiento de imagenes
 
 Dia 6 Lector de archivos
+
+Dia 7 Mini RPG Parte 1
