@@ -15,3 +15,6 @@ Dia 6 Lector de archivos
 Dia 7 Mini RPG Parte 1
 
 Dia 8 Transformar PDF a TXT
+
+Dia 9 Selenium
+
