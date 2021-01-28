@@ -18,3 +18,4 @@ Dia 8 Transformar PDF a TXT
 
 Dia 9 Selenium
 
+Dia 10 Comparar imagenes
